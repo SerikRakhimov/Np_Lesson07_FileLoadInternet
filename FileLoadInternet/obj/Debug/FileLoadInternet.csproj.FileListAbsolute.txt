@@ -1,0 +1,15 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\bin\Debug\FileLoadInternet.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\bin\Debug\FileLoadInternet.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\bin\Debug\FileLoadInternet.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\obj\Debug\FileLoadInternet.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\obj\Debug\MainWindow.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\obj\Debug\App.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\obj\Debug\FileLoadInternet_MarkupCompile.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\obj\Debug\FileLoadInternet_MarkupCompile.lref
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\obj\Debug\MainWindow.baml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\obj\Debug\FileLoadInternet.g.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\obj\Debug\FileLoadInternet.Properties.Resources.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\obj\Debug\FileLoadInternet.csproj.GenerateResource.Cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\obj\Debug\FileLoadInternet.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\obj\Debug\FileLoadInternet.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\FileLoadInternet\FileLoadInternet\FileLoadInternet\obj\Debug\FileLoadInternet.pdb
